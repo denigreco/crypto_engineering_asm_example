@@ -3,7 +3,7 @@
 ## Credit
 Example taken from: https://github.com/joostrijneveld/STM32-getting-started/blob/master/common/asmfunction.s
 
-## Descryption
+## Description
 * This repository is targeted at the students of the Cryptographic Engineering master course from Radboud University.
 * This is nothing more than a getting started with assembly example. 
 * You can use `example.s` as a template for writing any assembly function.
